@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  gap: 32px;
+}
+
+.image {
+  width: 300px;
+}
+
+.category {
+  padding: 4px 8px;
+  background-color: darkgreen;
+  color: white;
+  border-radius: 8px;
+  width: fit-content;
+}
+
+.description {
+  margin-top: 32px;
+  font-size: 14px;
+  color: grey;
+}
